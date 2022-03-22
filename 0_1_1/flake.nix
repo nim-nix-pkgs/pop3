@@ -9,7 +9,7 @@
   
   inputs.src-pop3-0_1_1.flake = false;
   inputs.src-pop3-0_1_1.owner = "FedericoCeratto";
-  inputs.src-pop3-0_1_1.ref   = "refs/tags/0.1.1";
+  inputs.src-pop3-0_1_1.ref   = "0_1_1";
   inputs.src-pop3-0_1_1.repo  = "nim-pop3";
   inputs.src-pop3-0_1_1.type  = "github";
   
