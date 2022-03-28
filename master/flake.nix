@@ -11,7 +11,6 @@
   inputs.src-pop3-master.ref   = "refs/heads/master";
   inputs.src-pop3-master.owner = "FedericoCeratto";
   inputs.src-pop3-master.repo  = "nim-pop3";
-  inputs.src-pop3-master.dir   = "";
   inputs.src-pop3-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
